@@ -4,6 +4,9 @@
 # macOS
 .DS_Store
 
+credentials.json
+security.env
+
 # Python
 __pycache__/
 *.pyc
@@ -13,4 +16,4 @@ __pycache__/
 .venv/
 
 # JetBrains caches
-*.iml
+*.imlcredentials.json
